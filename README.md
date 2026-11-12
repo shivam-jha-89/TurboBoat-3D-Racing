@@ -9,8 +9,13 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-3DDC84?style=for-the-badge&logo=vercel&logoColor=white)](https://contril-7zpy.vercel.app/)
 
 ---
+ 
+ # git clone - https://github.com/shivam-jha-89/TurboBoat-3D-Racing
+ # Live Demo - https://turbo-boat-3-d-racing.vercel.app/
+ # Contect no - 9661323147
+ # Email id  - Shivam45jha@gmail.com
 
-## ⚡ Quick Start
+  ## ⚡ Quick Start
 
 ```bash
 # Install dependencies
@@ -19,11 +24,7 @@ npm install
 # Start local development server
 npm run dev
 ```
- # git clone - https://github.com/shivam-jha-89/TurboBoat-3D-Racing
- # Live Demo - https://turbo-boat-3-d-racing.vercel.app/
- # Contect no - 9661323147
- # Email id  - Shivam45jha@gmail.com
- 
+
 Visit **http://localhost:5173** to play locally.
 
 ---
