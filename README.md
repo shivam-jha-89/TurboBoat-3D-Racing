@@ -1,4 +1,7 @@
-# CONTRIL 🌊
+# TurboBoat-3D-Racing 🌊
+# TurboBoat 3D Racing
+# Designed & Developed by Shivam Kumar | 2026
+   A 3D Arcade Boat Racing Experience. 
 
 > **A cel-shaded arcade boat racing game on an infinite procedural ocean.**
 > Anime-inspired cel shading, procedural ocean physics, zero external assets.
@@ -16,7 +19,8 @@ npm install
 # Start local development server
 npm run dev
 ```
-
+ # git clone - https://github.com/shivam-jha-89/TurboBoat-3D-Racing
+ # Live Demo - https://turbo-boat-3-d-racing.vercel.app/
 Visit **http://localhost:5173** to play locally.
 
 ---
@@ -45,7 +49,7 @@ Visit **http://localhost:5173** to play locally.
 
 ## 🌐 Multiplayer
 
-Online races are peer-to-peer (WebRTC via [Trystero](https://github.com/dmotz/trystero)) — there is **no game server**, and signalling runs over public Nostr relays, so the static deployment works unchanged.
+Online races are peer-to-peer (WebRTC via [Trystero](https://github.com/shivam-jha-89/TurboBoat-3D-Racing)) — there is **no game server**, and signalling runs over public Nostr relays, so the static deployment works unchanged.
 
 * **Host online** from the title menu to open a room and get a 5-letter code; friends pick **Join with code** (or open `?room=CODE`).
 * Up to **4 human racers**; empty grid slots are filled by the usual AI drivers.
