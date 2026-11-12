@@ -10,10 +10,10 @@
 
 ---
  
- # git clone - https://github.com/shivam-jha-89/TurboBoat-3D-Racing
- # Live Demo - https://turbo-boat-3-d-racing.vercel.app/
- # Contect no - 9661323147
- # Email id  - Shivam45jha@gmail.com
+  git clone - https://github.com/shivam-jha-89/TurboBoat-3D-Racing
+  Live Demo - https://turbo-boat-3-d-racing.vercel.app/
+  Contect no - 9661323147
+   Email id  - Shivam45jha@gmail.com
 
   ## ⚡ Quick Start
 
